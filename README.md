@@ -12,7 +12,7 @@ Navigate to `http://localhost:8080`
 To update image
 
 ```
-docker-compose build
+docker-compose buildrefreshAfterAnalysisasdasdasd
 ```
 
 ## Requirements
