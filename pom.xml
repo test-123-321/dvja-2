@@ -13,6 +13,9 @@
         <log4j2.version>2.3</log4j2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>3.0.5.RELEASE</spring.version>
+             <sonar.projectKey>antonio-garcia-sonarsource_dvja</sonar.projectKey>
+  <sonar.organization>antonio-garcia-sonarsource</sonar.organization>
+  <sonar.host.url>https://squad-5-core.sc-dev.io</sonar.host.url>
     </properties>
 
     <dependencies>
