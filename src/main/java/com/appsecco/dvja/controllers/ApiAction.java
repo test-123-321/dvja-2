@@ -13,7 +13,8 @@ import java.util.Map;
 
 public class ApiAction extends BaseController {
 
-    // private UserService userService;
+    // oops
+    private UserService userService;
     private String login;
 
     public UserService getUserService() {
